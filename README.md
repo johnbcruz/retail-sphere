@@ -1,12 +1,11 @@
-# Team 13 System - Login Information
+# Retail Sphere Login Information
 
-Welcome to Team 13's system! Below are the login credentials for employees and customers.
-https://t13fall2024.netlify.app/
+Welcome to Retail Sphere! Below are the login credentials for employees and customers.
 
 ## Employee Login:
 
 ### Employee Admin:
-- **ID:**  1
+- **ID:** 1
 - **Password:** Admin
 
 ### Employee Cashier:
@@ -20,7 +19,7 @@ https://t13fall2024.netlify.app/
 ## Customer Login:
 
 ### Customer John Doe:
-- **Phone #:** 1112223333
+- **Phone #:** 111-222-3333
 
 ### Customer Jane Doe:
-- **Phone #:** 4445556666
+- **Phone #:** 444-555-6666
